@@ -22,7 +22,11 @@
            
    
     <div id="nav">
-       
+       <ul>
+           <li><a href="/Default.aspx">Home</a></li>
+           <li><a href="/webpages/misc/contact.aspx">Contact Us</a></li>
+           <li><a href="/webpages/misc/login.aspx">Login</a></li>
+       </ul>
            
     </div>          
        
