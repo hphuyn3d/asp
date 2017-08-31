@@ -14,7 +14,7 @@ Senate consisted of one hundred senators.  Later on that number increased to
 three hundred. This was primarily a body of nobleman with its members mostly from the
 patrician class.  During the period of Roman kings the Senate acted almost like a
 board of governors.</p>  
- 
+<img src="../../Images/rome/col.jpeg" style="margin: 0 auto; width: 100%;"/>
 <p>After the foundation of the republic the Senate's power greatly increased.  The Senate passed its
 own mandates called senatus consulta.  It is important to note that these mandates were not considered
 laws, however they were almost always obeyed.  These mandates were executed by the two Roman
